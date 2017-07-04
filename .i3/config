@@ -25,6 +25,7 @@ smart_gaps on
 exec nitrogen --restore
 exec --no-startup-id compton 
 exec dropbox
+exec --no-startup-id unclutter -idle 1
 
 #i3lock
 bindsym $mod+shift+x exec ~/.i3/lock.sh
