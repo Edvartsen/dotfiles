@@ -23,7 +23,7 @@ smart_gaps on
 
 #Startup Applications
 exec nitrogen --restore
-exec --no-startup-id compton -f
+exec --no-startup-id compton 
 exec dropbox
 
 #i3lock

@@ -22,6 +22,9 @@
 URxvt*scrollBar: false
 URxvt.font: xft:Fantasque Sans Mono:size=10
 
+urxvt*depth: 32
+urxvt*background: rgba:0000/0000/0200/c800
+
 ! ------------------------------------------------------------------------------
 ! ROFI Color theme
 ! ------------------------------------------------------------------------------
